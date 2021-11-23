@@ -1,74 +1,25 @@
 {
   "dataUser": [
     {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
+      "username": "BobLightning",
+      "email": "boblightning@gmail.com",
+      "password": "bobbobob",
+      "role": "Admin",
       "id": 1
     },
     {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
+      "username": "eko",
+      "email": "ekologi@mail.com",
+      "password": "ekolagi",
+      "role": "user",
       "id": 2
     },
     {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
+      "username": "rehan",
+      "email": "rehan@mail.com",
+      "password": "rehan",
+      "role": "user",
       "id": 3
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 4
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 5
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 6
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 7
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 8
-    },
-    {
-      "username": "",
-      "email": "",
-      "password": "",
-      "role": "User",
-      "id": 9
-    },
-    {
-      "username": "agung",
-      "email": "agung",
-      "password": "agung",
-      "role": "User",
-      "id": 10
     }
   ]
 }
